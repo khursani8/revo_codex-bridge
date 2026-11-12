@@ -1,3 +1,5 @@
+> **Unique:** Fork (with check_upstream.sh tracking) of the Sateezg codex-bridge Claude Code plugin: gives Claude gpt-image-2 image generation and GPT-5 subagents for review, debugging, and bulk implementation via the Codex CLI ChatGPT login, no API key.
+
 <div align="center">
 
 # codex-bridge
